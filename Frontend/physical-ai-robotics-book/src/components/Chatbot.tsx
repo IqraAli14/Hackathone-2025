@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 
-const API_URL = "https://speckit-plusapi.vercel.app/chat";
+const API_URL = "https://hackathone-2025-api.vercel.app/chat";
 
 export default function Chatbot() {
   const [open, setOpen] = useState(false);
