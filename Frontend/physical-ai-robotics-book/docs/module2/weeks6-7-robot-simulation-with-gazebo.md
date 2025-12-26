@@ -27,5 +27,5 @@ Build the digital twin to de-risk physical experiments and iterate quickly on lo
 - [ ] Unity scene can ingest robot state and render interaction scenarios.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Iqra Rehmat Ali** —Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
