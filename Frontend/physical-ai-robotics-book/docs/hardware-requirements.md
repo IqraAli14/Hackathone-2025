@@ -39,5 +39,5 @@ The course spans heavy simulation, perception, and embodied control. Choose the 
 - [ ] Safety plan: physical e-stop or software stop for any robot sessions.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Iqra Rehmat Ali** —Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
