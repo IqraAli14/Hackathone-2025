@@ -27,5 +27,5 @@ Translate simulation successes into stable humanoid behaviors and prepare for th
 - [ ] Runbook exists for deploying and rolling back motion planners and controllers.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Iqra Rehmat Ali** — Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
