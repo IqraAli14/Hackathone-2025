@@ -27,5 +27,5 @@ Use NVIDIA Isaac™ to build perception and navigation stacks that can survive t
 - [ ] Exported models meet Jetson latency/VRAM budgets for edge deployment.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Iqra Rehmat Ali** —Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
