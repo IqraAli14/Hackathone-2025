@@ -27,5 +27,5 @@ Deliver the autonomous humanoid: accept voice commands, plan actions, navigate, 
 - [ ] Demo script and safety stop procedures are rehearsed before live presentation.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Iqra Rehmat Ali** —Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
