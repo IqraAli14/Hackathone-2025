@@ -27,5 +27,5 @@ Deep dive into ROS 2 as the robotic nervous system, focusing on humanoid-ready a
 - [ ] Launch files bring up the stack reliably with parameter overrides.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Iqra Rehmat Ali** —Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
